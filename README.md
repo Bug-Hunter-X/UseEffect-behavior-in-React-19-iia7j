@@ -1,0 +1,2 @@
+# React 19 useEffect Bug
+This repository demonstrates a potential issue with the useEffect hook in React 19 related to logging or performing actions immediately after every render, potentially leading to unexpected behavior or performance issues.  The example shows how to correctly manage useEffect's execution to avoid these problems.  Incorrect usage can result in unnecessary re-renders and unexpected side effects.
